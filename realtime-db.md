@@ -38,13 +38,7 @@ Otherwise, you will need to set your Read and Write rules to `true`
 
 ### Connect Your Firebase Project with Thunkable
 
-To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on your app icon
-
-![](.gitbook/assets/thunkable-documentation-exhibits-67%20%281%29.png)
-
-One way to retrieve the `API key` and `Database URL` from Firebase is to click on the `Add Firebase to your web app option`
-
-![](.gitbook/assets/thunkable-documentation-exhibits-68.png)
+To connect your Firebase project with Thunkable, you'll have to add an `API key` and `Database URL` to the Firebase Settings in the App Settings, which you can find by clicking on your app ic
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-69%20%281%29.png)
 
